@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Chinmaya 👋
 
-<!--
-**chinmayab232004/chinmayab232004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MCA Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm an MCA student interested in building practical software solutions and learning how real-world applications are designed, developed, and secured.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technical Skills
+
+- **Languages:** Python, Java
+- **Web Development:** HTML, CSS, JavaScript, Django
+- **Databases:** MySQL, MongoDB
+- **Core Concepts:** Data Structures, DBMS, Machine Learning
+- **Tools:** Git, GitHub, VS Code
+
+## 💻 Featured Projects
+
+Projects will be added here as I build and document them.
+
+## 🎯 Current Goals
+
+- Build real-world software projects
+- Improve problem-solving and DSA skills
+- Learn software development and cybersecurity practices
+- Contribute to open-source projects
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/chinmayab232004
+
